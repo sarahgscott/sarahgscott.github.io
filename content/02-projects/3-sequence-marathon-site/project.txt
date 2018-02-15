@@ -1,0 +1,13 @@
+Title: London Fire Brigade (LFB)
+
+----
+
+Text: The aim was to create a site which actively supports LFB’s objectives, reflect its modern nature and assure people in London of their safety. From stakeholder workshops to audience interviews we ensured a deep understanding of our users and iteratively created a sleek and intuitive site which supports Londons safety.
+
+----
+
+Externallink: http://www.london-fire.gov.uk/
+
+----
+
+Tags: Lead UX consultant

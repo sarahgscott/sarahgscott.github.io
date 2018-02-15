@@ -1,0 +1,69 @@
+.projects {
+	@include clearfix;
+	@extend %container;
+}
+
+.project {
+	border-bottom: 1px solid #dedede;
+	padding: 50px 0;
+	margin: 0 auto;
+	max-width: 650px;
+	text-align: center;
+
+
+	&__image {
+		margin: 0 auto;
+		max-width: 150px;
+		width: 90%;
+
+		img {
+			border-radius: 100%;
+			width: 100%;
+		}
+	}
+
+	&__info {
+		
+	}
+
+	&__title {
+		color: darken($teal, 15%);
+		font-size: 1.75em;
+		font-weight: 700;
+		margin-bottom: .5em;
+	}
+
+	&__description {
+		color: $grey;
+		font-size: 1em;
+		line-height: 160%;
+	}
+
+	&__link,
+	&__link--disabled {
+		display: inline-block;
+		font-size: .85em;
+		font-weight: 700;
+		letter-spacing: 1px;
+		line-height: 100%;
+		padding: 1em;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	&__link {
+		color: darken($teal, 15%);
+		border: 1px solid darken($teal, 15%);
+
+		&:hover {
+			background: darken($teal, 15%);
+			border-color: darken($teal, 15%);
+			color: $white;
+		}
+	}
+
+	&__link--disabled {
+		color: #aaa;
+		border: 1px solid #ccc;
+	}
+}

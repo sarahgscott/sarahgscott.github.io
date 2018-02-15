@@ -1,0 +1,13 @@
+$body-font-stack: "rooney-sans", Helvetica, Arial, sans-serif;
+$heading-font-stack: "brandon-grotesque", "rooney-sans";
+
+
+body {
+	font-family: $body-font-stack;
+}
+
+h1, h2, h3, h4, h5 {
+	font-style: $heading-font-stack !important;
+	font-weight: 100;
+}
+

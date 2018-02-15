@@ -1,0 +1,15 @@
+$teal: #3ad6ae;
+$grey: #333;
+$yellow: #F2DB5B;
+$white: #fff;
+
+/*  --------------------------------------------------- 
+    Breakpoints
+------------------------------------------------------- */
+
+@include add-breakpoint('mobile-small', 0 360px);
+@include add-breakpoint('mobile', 360px 420px);
+@include add-breakpoint('mobile-large', 420px 720px);
+@include add-breakpoint('tablet', 720px 1024px);
+@include add-breakpoint('desktop', 1024px 1440px);
+@include add-breakpoint('desktop-large', 1440px 9999px);

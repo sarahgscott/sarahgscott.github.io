@@ -1,0 +1,13 @@
+Title: The View from The Shard
+
+----
+
+Tags: Lead UX consultant
+
+----
+
+Text: Resulting in a 165% increase in overall ticket rate conversions we created a mobile first solution for The View from The Shard.  The site excites users about London's greatest view and ensures a simple and quick checkout process (involving  a complicated API integration). We have crafted an ongoing CRO programme to maintain and improve on the success of the site so far.
+
+----
+
+Externallink: https://www.theviewfromtheshard.com/
